@@ -95,9 +95,9 @@
 </Breadcrumb>`}
 		/>
 		<div class="space-y-4">
-			<h2>Seperator</h2>
+			<h2>Separator</h2>
 			<p>
-				Use the <code>seperator</code> prop to define a custom seperator character. Accepts any valid HTML value, including unicode and emojii.
+				Use the <code>separator</code> prop to define a custom separator character. Accepts any valid HTML value, including unicode and emojii.
 			</p>
 			<CodeBlock language="html" code={`<Breadcrumb separator="&hearts;"></Breadcrumb>`} />
 		</div>
